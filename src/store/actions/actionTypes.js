@@ -1,0 +1,5 @@
+export const AUTH_START='AUTH_START';
+export const AUTH_SUCCES='AUTH_SUCCES';
+export const AUTH_FAIL='AUTH_FAIL';
+export const AUTH_LOGOUT='AUTH_LOGOUT';
+export const AUTH_FAIL_REGISTER='AUTH_FAIL_REGISTER';
